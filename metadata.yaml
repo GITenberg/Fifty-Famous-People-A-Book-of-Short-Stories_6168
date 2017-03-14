@@ -1,5 +1,8 @@
 _repo: Fifty-Famous-People-A-Book-of-Short-Stories_6168
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baldwin, James
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1982
     wikipedia: http://en.wikipedia.org/wiki/James_Baldwin_(editor_and_author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6168#Fifty-Famous-People-A-Book-of-Short-Stories
 gutenberg_bookshelf: Children's Biography
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text

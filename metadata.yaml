@@ -1,5 +1,5 @@
 _repo: Fifty-Famous-People-A-Book-of-Short-Stories_6168
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Heroes -- Juvenile literature'
 - !lcsh 'Character -- Juvenile literature'
 - !lcc 'PZ'
+- GITenberg
 tableOfContents: Saving the birds -- Another bird story -- Speaking a piece -- Writing
   a composition -- The whistle -- The Ettrick Shepherd -- The Caliph and the poet
   -- "Beccos! Beccos! Beccos!" -- A lesson in humility -- The midnight ride -- The
